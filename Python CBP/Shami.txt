@@ -1,0 +1,19 @@
+
+Mohammed Shami
+(India)
+
+Batting Career Summary
+
+	M	Inn	NO	Runs	HS	Avg	BF	SR	100	200	50	4s	6s
+Test	50	66	20	498	51	10.83	652	76.38	0	0	1	50	20
+ODI	79	38	17	161	25	7.67	194	82.99	0	0	0	12	7
+T20I	12	-	-	-	-	-	-	-	-	-	-	-	-
+IPL	63	19	9	56	21	5.6	56	100.0	0	0	0	5	2
+
+Bowling Career Summary
+
+	M	Inn	B	Runs	Wkts	BBI	BBM	Econ	Avg	SR	5W	10W
+Test	50	95	8999	4966	180	6/56	9/118	3.31	27.59	49.99	5	0
+ODI	79	78	4044	3793	148	5/69	5/69	5.63	25.63	27.32	1	0
+T20I	12	12	262	428	12	3/38	3/38	9.8	35.67	21.83	0	0
+IPL	63	63	1354	2007	60	3/15	3/15	8.89	33.45	22.57	0	0

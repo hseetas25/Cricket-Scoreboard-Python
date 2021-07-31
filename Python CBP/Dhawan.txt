@@ -1,0 +1,22 @@
+
+
+Shikhar Dhawan
+(India)
+
+
+Batting Career Summary
+
+	M	Inn	NO	Runs	HS	Avg	BF	SR	100	200	50	4s	6s
+Test	34	58	1	2315	190	40.61	3458	66.95	7	0	5	316	12
+ODI	139	136	7	5808	143	45.02	6186	93.89	17	0	30	727	69
+T20I	63	62	3	1669	92	28.29	1301	128.29	0	0	11	182	49
+IPL	176	175	23	5196	106	34.18	4096	126.86	2	0	41	591	108
+
+
+Bowling Career Summary
+
+	M	Inn	B	Runs	Wkts	BBI	BBM	Econ	Avg	SR	5W	10W
+Test	34	5	54	18	0	0/0	0/0	2.0	0.0	0.0	0	0
+ODI	139	-	-	-	-	-	-	-	-	-	-	-
+T20I	63	-	-	-	-	-	-	-	-	-	-	-
+IPL	176	6	48	66	4	1/7	1/7	8.25	16.5	12.0	0	0

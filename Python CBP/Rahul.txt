@@ -1,0 +1,20 @@
+
+KL Rahul
+(India)
+
+
+Batting Career Summary
+
+	M	Inn	NO	Runs	HS	Avg	BF	SR	100	200	50	4s	6s
+Test	36	60	2	2006	199	34.59	3553	56.46	5	0	11	237	14
+ODI	35	34	5	1332	112	45.93	1515	87.92	4	0	8	103	30
+T20I	44	41	6	1542	110	44.06	1064	144.92	2	0	12	136	63
+IPL	81	72	13	2647	132	44.86	1949	135.81	2	0	21	234	104
+
+Bowling Career Summary
+
+	M	Inn	B	Runs	Wkts	BBI	BBM	Econ	Avg	SR	5W	10W
+Test	36	-	-	-	-	-	-	-	-	-	-	-
+ODI	35	-	-	-	-	-	-	-	-	-	-	-
+T20I	44	-	-	-	-	-	-	-	-	-	-	-
+IPL	81	-	-	-	-	-	-	-	-	-	-	-
